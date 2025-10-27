@@ -1,7 +1,7 @@
 
 
 # Banking Analytics: Loan Portfolio Performance Dashboard (Excel)
-
+Project Excel link :https://drive.google.com/file/d/1pzPWO5yfPVww968cgLCH8F3bs0ULJAmq/view?usp=sharing
 ## Project Statement
 
 The Loan Portfolio Performance Dashboard provides a detailed analysis of loan data to understand risk, profitability, and borrower behavior in consumer lending.
