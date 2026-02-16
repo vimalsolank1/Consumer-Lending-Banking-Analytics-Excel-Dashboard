@@ -41,13 +41,20 @@ The dataset includes borrower demographics, loan attributes, interest rates, rep
 
 ## Key Insights
 
-* Default Rate: 12.81%
-* Average Interest Rate: 13.69%
-* Grade F and G loans show the highest Loan Profitability Index (LPI).
-* Debt consolidation and credit card loans have the highest default rates.
-* Ulster and Northern Ireland show higher default ratios.
-* The average loan amount is projected to increase in upcoming years.
+1. Loan Distribution Trends
+Debt consolidation loans dominated the portfolio (40K+ out of 70K loans), followed by credit card loans. Categories like education and renewable energy were underrepresented, indicating an opportunity for portfolio diversification.
 
+2. Borrower Risk Profile
+Loan grades E–G showed high default risk (~28%), while A–C grades were relatively safer (~9%). Borrowers with less than 5 years of employment had higher default probability. This highlights the need for stricter risk control for low-grade and unstable borrowers.
+
+3. Profitability vs Risk Trade-off
+Low-grade loans (E–G) and 60-month terms generated higher returns but carried higher risk. Medium and high-income borrowers contributed stronger profitability. A balanced portfolio strategy is essential for stability and growth.
+
+4. Portfolio Health & Recovery
+Overall default rate stood at ~13% with an average interest rate of 14%. However, recovery rate was low (~5%), indicating losses from high-risk segments. Improved risk assessment and early monitoring can reduce future defaults.
+
+5. Lending Trend Over Time (2007–2014)
+Default rates declined while total loan volume increased steadily, suggesting improved credit management and stronger borrower quality over time.
 ---
 
 ## Dashboard Highlights
